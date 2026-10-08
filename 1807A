@@ -1,0 +1,11 @@
+t= int(input())
+for _ in range (t):
+    t>=1 <= 162
+    a , b , c = map(int ,input().split() )
+    1>=a,b<=9
+    -8 >= c <= 18
+    if a + b == c :
+        print ("+")
+    elif a-b ==c :
+        print ("-")
+
